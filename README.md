@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **efehoplamaz/efehoplamaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,4 +9,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on data science projects.
 - 📫 How to reach me: hopefe.17@gmail.com
 - ⚡ Fun fact: I am a drummer :)
--->
