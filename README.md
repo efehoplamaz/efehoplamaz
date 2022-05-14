@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on AirQuality API where I am learning more about API's.
-- 🌱 I’m currently learning more about statistics and API's.
-- 👯 I’m looking to collaborate on data science projects.
-- 📫 How to reach me: hopefe.17@gmail.com
-- ⚡ Fun fact: I am a drummer :)
+- 🔭 Working as a Machine Learning Engineer at smartR.ai.
+- 🌱 I’m learning more about keypoint detection algorithms and Spatial Transformer Network.
+- 👯 Looking forward to collaborate on data science & machine learning projects.
+- 📫 To reach me out, send an email to hopefe.17@gmail.com
+- ⚡ A little fun fact about me: I am a drummer and was a marathon runner 🙂
